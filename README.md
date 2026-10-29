@@ -64,4 +64,6 @@ You can run it directly from PowerShell:
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
-+ Made by akettunen, ville117 & Claude
+## Credits
+
+Made by akettunen, ville117 & Claude
