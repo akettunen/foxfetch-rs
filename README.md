@@ -15,7 +15,7 @@ The output will look similar to the following. Actual values depend on your Wind
      \@/        gpu: ...
 ```
 
-## Pictures (i got a custom font so it look different on your machine!)
+## Pictures (i have a custom font so it look different on your machine!)
 <img width="676" height="94" alt="image" src="https://github.com/user-attachments/assets/22ee2f7a-a0cd-4ddd-a31f-b3a1b1f900f1" />
 
 ## Requirements
