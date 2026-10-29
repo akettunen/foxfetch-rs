@@ -63,3 +63,5 @@ You can run it directly from PowerShell:
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
++ Made by akettunen, ville117 & Claude
