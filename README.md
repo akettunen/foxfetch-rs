@@ -57,16 +57,6 @@ You can run it directly from PowerShell:
 .\target\release\foxfetch-rs.exe
 ```
 
-## How it works
-
-`foxfetch-rs` reads selected Windows registry keys to collect system information:
-
-- **Operating system:** Identifies the operating system as Windows.
-- **Kernel/build:** Reads the Windows build number and update revision.
-- **Graphics:** Enumerates display-adapter registry entries and retrieves available driver descriptions.
-
-The collected information is formatted alongside the fox logo and printed to standard output.
-
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
