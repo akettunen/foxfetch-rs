@@ -11,12 +11,13 @@ The output will look similar to the following. Actual values depend on your Wind
 ```text
     |\__/|      os: windows
    /     \      kernel: 10.0.26100.1
-  /_.~ ~,_\     gpu: NVIDIA GeForce RTX ...
+  /_.~ ~,_\     cpu: ...
      \@/        gpu: ...
 ```
 
 ## Pictures (i have a custom font so it can look different on your machine!)
-<img width="676" height="94" alt="image" src="https://github.com/user-attachments/assets/22ee2f7a-a0cd-4ddd-a31f-b3a1b1f900f1" />
+<img width="882" height="90" alt="image" src="https://github.com/user-attachments/assets/242dbc54-745b-41ef-823a-e965d3417435" />
+
 
 ## Requirements
 
