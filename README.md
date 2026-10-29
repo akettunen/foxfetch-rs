@@ -66,4 +66,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Credits
 
-Made by akettunen, ville117 & Claude
+Made by akettunen, ville117, Claude & ChatGPT made the base for this readme
